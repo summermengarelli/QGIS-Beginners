@@ -1,0 +1,19 @@
+QGIS and Map-Making for Absolute Beginners
+================
+
+Welcome! This GitHub repository contains the materials related to the
+workshop “QGIS and Map-Making in R.” We will discuss spatial data and
+the basics of spatial visualization here before hopping into QGIS to
+familiarize ourselves with the tool and begin making maps.
+
+Begin by clicking the “Get Started” link below.
+
+[Get Started \>\>\>](sections/1-LearningGoals.md)
+
+------------------------------------------------------------------------
+
+This workshop is offered by the [Navari Family Center for Digital
+Scholarship](cds.library.nd.edu) in the Hesburgh Libraries at the
+University of Notre Dame. Workshop materials were created by [Summer
+Mengarelli](mailto:smengare@nd.edu), Data Services Librarian, in October
+2026.
