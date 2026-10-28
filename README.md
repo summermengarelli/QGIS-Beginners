@@ -2,7 +2,7 @@ QGIS and Map-Making for Absolute Beginners
 ================
 
 Welcome! This GitHub repository contains the materials related to the
-workshop “QGIS and Map-Making in R.” We will discuss spatial data and
+workshop “QGIS and Map-Making for Absolute Beginners.” We will discuss spatial data and
 the basics of spatial visualization here before hopping into QGIS to
 familiarize ourselves with the tool and begin making maps.
 
